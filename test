@@ -1,0 +1,5 @@
+if (Nemanja je jak) {
+print"on je zajeban"
+}else{
+print"on je picka"
+}
